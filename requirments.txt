@@ -8,4 +8,4 @@ Instructions:
 
 Place script.py file with wikipedia_links.csv in the same folder.
 
-Run script via "python Wiki_Parser.py wikipedia_links.csv" command
+Run script via "python script.py wikipedia_links.csv" command
