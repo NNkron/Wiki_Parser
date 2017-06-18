@@ -1,0 +1,11 @@
+Script is writen in Python v3.4. It needs some libraries for correct work:
+
+- requests (installation: pip install requests)
+- BeautifulSoup (installation: pip install bs4)
+- progressbar (installation: pip progressbar2)
+
+Instructions:
+
+Place script.py file with wikipedia_links.csv in the same folder.
+
+Run script via "python Wiki_Parser.py wikipedia_links.csv" command
